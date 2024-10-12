@@ -1,5 +1,7 @@
 Here are the requirements for "RK Text Editor" project:
 
+Note: Use application from the **dist 📁** 
+
 1. Python
 * Version: Python 3.x (Preferably 3.6 or higher)
 * Installation: You can download it from python.org.
