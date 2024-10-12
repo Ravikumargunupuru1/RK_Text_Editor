@@ -1,0 +1,20 @@
+Here are the requirements for "RK Text Editor" project:
+
+1. Python
+* Version: Python 3.x (Preferably 3.6 or higher)
+* Installation: You can download it from python.org.
+
+2. Tkinter
+Tkinter is included with standard Python installations on most platforms:
+* For Windows and macOS: Tkinter is bundled with Python.
+  >>> Other wise just install (pip install TKinter)
+* For Linux: You may need to install it using:
+  >>> sudo apt-get install python3-tk
+
+3. PyInstaller
+* Purpose: To package the application into a standalone executable.
+* Installation: pip install pyinstaller
+
+4. Optional Tools
+* Text Editor/IDE: You can use any text editor or IDE (like VS Code, PyCharm) to write and edit the code.
+* These are the core requirements for developing and deploying "RK Text Editor."
