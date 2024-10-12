@@ -17,6 +17,6 @@
 To install the necessary dependencies:
 * Install Python 3.x from python.org.
 * Tkinter comes pre-installed with most Python distributions. However, on Linux, you may need to install it:
-'''bash
+```bash
 sudo apt-get install python3-tk
-'''
+```
